@@ -35,5 +35,5 @@ Note to xampp the library in apache => config => php (php.ini)
 Library ;extension=gd is being closed to be changed to extension=gd
 
 ### INSTALL LIBRARY
--   **1. Install composer **
--   **2. Install npm **
+-   **1. Install composer**
+-   **2. Install npm**
